@@ -1,7 +1,7 @@
 # Rcourse
 R for beginners.
 
-Course for Big Data seminar.
+Course for Big Data seminar
 
 Contents:
  - Introduction to syntax
